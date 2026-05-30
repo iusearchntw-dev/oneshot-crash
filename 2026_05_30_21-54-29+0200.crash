@@ -1,0 +1,9 @@
+	RuntimeError : Wayland is not supported.
+- Ruby-files/Initializers/Main.rb:127:in `<main>'
+- 000:Main:8:in `eval'
+- 000:Main:8:in `block in <main>'
+- 000:Main:7:in `each'
+- 000:Main:7:in `<main>'
+- -e:in `eval'
+
+F
